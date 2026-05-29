@@ -1,88 +1,185 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" alt="Header wave" />
 </div>
 
-<h3 align="center">
-  Hola, soy Jonathan Soto
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi, I'm Jonathan Soto 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Backend%20Developer;Siempre%20aprendiendo%20cosas%20nuevas;Sientete%20libre%20de%20mirar%20alrededor%20%F0%9F%91%80;Escribeme%20si%20necesitas%20mis%20servicios!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <strong>Backend & Full-Stack Engineer</strong><br />
+  Building APIs, business systems, automation tools and AI-assisted developer workflows.
 </p>
 
 <p align="center">
-  <a href="https://github.com/JonaSotoAguilar/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JonaSotoAguilar"></a>
+  <a href="https://github.com/JonaSotoAguilar">
+    <img alt="GitHub profile views" src="https://visitor-badge.laobi.icu/badge?page_id=JonaSotoAguilar" />
+  </a>
 </p>
 
 ---
 
-- 👨‍💻 Como ingeniero de backend, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
+## About me
 
-## 🛠 &nbsp;Tech Stack
+I'm a software engineer focused mainly on backend development. I enjoy designing maintainable systems, clear APIs and practical tools that solve real problems with Python, Java, JavaScript/TypeScript and modern development practices.
 
-#### 🔧 Languages
+I'm also exploring how AI agents and tools like OpenCode and pi-agent can improve real software workflows: code analysis, automation, review, documentation and developer productivity.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+## What I build
 
-#### 🖥️ Frameworks
+- Backend APIs and domain-oriented services.
+- Full-stack applications with React, Next.js and TypeScript.
+- Business dashboards, internal tools and service management systems.
+- Developer automation workflows and productivity tooling.
+- AI-assisted software workflows using coding agents and local tooling.
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+## Current focus
 
-#### 💾 Databases & Cloud Hosting
+```text
+Backend architecture       ████████████████████░░  90%
+Python / Java services     ███████████████████░░░  85%
+TypeScript full-stack      ████████████████░░░░░░  75%
+AI-assisted development    ███████████████░░░░░░░  70%
+React / Next.js frontend   █████████████░░░░░░░░░  60%
+```
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+## Tech stack
 
-#### 🔧 Softwares and Tools
+### Backend
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Projects
-Aquí hay una lista de mis proyectos:
- 
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Data, DevOps & AI tooling
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white)
+
+## Featured projects
+
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">WealthQuest - Aprende Finanzas Jugando</h3>
-<div align="center">
-<a href="https://jonasotoaguilar.itch.io/wealthquest" target="_blank"><img src="https://img.itch.zone/aW1hZ2UvMzIzMzk1MC8yMjcxNDc3OC5qcGc=/347x500/darA6x.jpg" width="400" alt="WealthQuest"></a>
-<p>
-<a href="https://jonasotoaguilar.itch.io/wealthquest" target="_blank">
-<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
-</a>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ServiceFlow</h3>
+      <p align="center">
+        <a href="https://github.com/jonasotoaguilar/ServiceFlow" target="_blank">
+          <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1E3A8A,100:2563EB&text=ServiceFlow&fontColor=FFFFFF&fontSize=38&desc=Service%20orders%20%26%20ticket%20tracking&descAlignY=70&descSize=16" alt="ServiceFlow project banner" />
+        </a>
+      </p>
+      <p>
+        Full-stack service order and ticket tracking application built with Next.js, TypeScript, Appwrite and Docker.
+      </p>
+      <p>
+        <strong>Shows:</strong> product thinking, state management, full-stack implementation, Dockerized development and operational workflows.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">EventCommerce</h3>
+      <p align="center">
+        <a href="https://github.com/jonasotoaguilar/eventcommerce" target="_blank">
+          <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,50:7C2D12,100:EA580C&text=EventCommerce&fontColor=FFFFFF&fontSize=38&desc=Events%20%2B%20commerce%20backend&descAlignY=70&descSize=16" alt="EventCommerce project banner" />
+        </a>
+      </p>
+      <p>
+        Python backend project with potential to become a strong domain-driven portfolio piece around events, commerce, orders and business rules.
+      </p>
+      <p>
+        <strong>Next improvement:</strong> add a clear README, API documentation, tests, Docker Compose and domain-focused use cases.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Fintual Sensor for bGames</h3>
+      <p align="center">
+        <a href="https://github.com/BlendedGames-bGames/bGames-FintualSensor" target="_blank">
+          <img src="https://fintual.cl/f/og-image.png" width="400" alt="Fintual Sensor for bGames" />
+        </a>
+      </p>
+      <p>
+        Integration component that evaluates monthly savings goals through the Fintual API and connects those results with a gamified experience.
+      </p>
+      <p>
+        <strong>Shows:</strong> external API integration, financial domain rules and gamification logic.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">WealthQuest</h3>
+      <p align="center">
+        <a href="https://jonasotoaguilar.itch.io/wealthquest" target="_blank">
+          <img src="https://img.itch.zone/aW1hZ2UvMzIzMzk1MC8yMjcxNDc3OC5qcGc=/347x500/darA6x.jpg" width="300" alt="WealthQuest" />
+        </a>
+      </p>
+      <p>
+        A 3D digital board game built in Unity to teach financial education through interactive decisions, investments and practical learning.
+      </p>
+      <p>
+        <a href="https://jonasotoaguilar.itch.io/wealthquest" target="_blank">
+          <img src="https://img.shields.io/badge/Itch.io-FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Project idea worth building next
+
+### AgentOps Dashboard
+
+A platform to monitor and evaluate AI-agent tasks across software projects.
+
+**What it would include:**
+
+- Agent task history: prompt, status, duration, output and result quality.
+- Project-level metrics for automation and AI-assisted development.
+- Backend API for ingesting agent events.
+- Dashboard for reviewing executions, failures and improvements.
+- Dockerized local environment and CI checks.
+
+**Suggested stack:** Python/FastAPI or Spring Boot, PostgreSQL, Redis, Next.js, Docker and GitHub Actions.
+
+**Why it fits my profile:** it combines backend architecture, observability, full-stack product work and practical AI-agent tooling.
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonasotoaguilar&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonathan Soto GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasotoaguilar&layout=compact&theme=tokyonight&hide_border=true" alt="Jonathan Soto top languages" />
 </p>
-<p>WealthQuest es un juego de mesa digital en 3D construido en Unity y diseñado para enseñar educación financiera de una manera divertida e interactiva. Cada partida pone a prueba los conocimientos financieros de los jugadores y los desafía a tomar decisiones estratégicas sobre inversiones, ingresos y gastos mientras compiten para obtener la mejor puntuación.</p>
-</div>
-                                                                                      
-</td>  
 
-<td width="50%">
-<h3 align="center">Sensor de Fintual en bGames</h3>
-<div align="center">                                       
-<a href="https://github.com/BlendedGames-bGames/bGames-FintualSensor" target="_blank"><img src="https://fintual.cl/f/og-image.png" width="400" alt="Sensor de Fintual en bGames"></a>
-<br>
-<p>
-<a href="https://github.com/BlendedGames-bGames/bGames-FintualSensor" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasotoaguilar&theme=tokyo-night&hide_border=true" alt="Jonathan Soto GitHub activity graph" />
 </p>
-</p>El Sensor de Fintual es un componente diseñado para evaluar el cumplimiento de metas de ahorro mensual a travez de la API de la plataforma Fintual. Este sensor se integra en la aplicación bGames, permitiendo a los usuarios asociar sus cuentas, validar el cumplimiento de metas y obtener puntos basados en el ahorro.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
-</table>                                                                                 
-</div>
-<br>
+## Contact
 
-------
+If you want to collaborate, talk about backend engineering, AI-assisted development or build useful developer tools, reach me here:
+
+<p align="center">
+  <a href="mailto:jonathansoto.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jonathansoto.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JonaSotoAguilar">
+    <img src="https://img.shields.io/badge/GitHub-JonaSotoAguilar-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building useful systems, learning constantly and using AI as a tool to think and execute better.</em>
+</p>
