@@ -77,7 +77,7 @@ React / Next.js frontend   █████████████░░░░�
       <h3 align="center">ServiceFlow</h3>
       <p align="center">
         <a href="https://github.com/jonasotoaguilar/ServiceFlow" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1E3A8A,100:2563EB&text=ServiceFlow&fontColor=FFFFFF&fontSize=38&desc=Service%20orders%20%26%20ticket%20tracking&descAlignY=70&descSize=16" alt="ServiceFlow project banner" />
+          <img src="https://placehold.co/600x300/0F172A/FFFFFF/png?text=ServiceFlow" alt="ServiceFlow project banner" />
         </a>
       </p>
       <p>
@@ -91,7 +91,7 @@ React / Next.js frontend   █████████████░░░░�
       <h3 align="center">EventCommerce</h3>
       <p align="center">
         <a href="https://github.com/jonasotoaguilar/eventcommerce" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,50:7C2D12,100:EA580C&text=EventCommerce&fontColor=FFFFFF&fontSize=38&desc=Events%20%2B%20commerce%20backend&descAlignY=70&descSize=16" alt="EventCommerce project banner" />
+          <img src="https://placehold.co/600x300/111827/FFFFFF/png?text=EventCommerce" alt="EventCommerce project banner" />
         </a>
       </p>
       <p>
@@ -139,12 +139,12 @@ React / Next.js frontend   █████████████░░░░�
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonasotoaguilar&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonathan Soto GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasotoaguilar&layout=compact&theme=tokyonight&hide_border=true" alt="Jonathan Soto top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonaSotoAguilar&theme=tokyonight" alt="Jonathan Soto GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasotoaguilar&theme=tokyo-night&hide_border=true" alt="Jonathan Soto GitHub activity graph" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonaSotoAguilar&theme=tokyonight" alt="Jonathan Soto repositories per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonaSotoAguilar&theme=tokyonight" alt="Jonathan Soto most committed languages" />
 </p>
 
 ## Contact
