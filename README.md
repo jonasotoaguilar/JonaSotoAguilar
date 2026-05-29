@@ -136,24 +136,6 @@ React / Next.js frontend   █████████████░░░░�
   </tr>
 </table>
 
-## Project idea worth building next
-
-### AgentOps Dashboard
-
-A platform to monitor and evaluate AI-agent tasks across software projects.
-
-**What it would include:**
-
-- Agent task history: prompt, status, duration, output and result quality.
-- Project-level metrics for automation and AI-assisted development.
-- Backend API for ingesting agent events.
-- Dashboard for reviewing executions, failures and improvements.
-- Dockerized local environment and CI checks.
-
-**Suggested stack:** Python/FastAPI or Spring Boot, PostgreSQL, Redis, Next.js, Docker and GitHub Actions.
-
-**Why it fits my profile:** it combines backend architecture, observability, full-stack product work and practical AI-agent tooling.
-
 ## GitHub activity
 
 <p align="center">
