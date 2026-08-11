@@ -68,7 +68,7 @@ Rust tooling               ██████████░░░░░░░�
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Data, DevOps & AI tooling
+### Data & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,15 +78,18 @@ Rust tooling               ██████████░░░░░░░�
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=fbf0df)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white)
 
-### Engineering workflows
+### AI-assisted development
 
-![TDD](https://img.shields.io/badge/TDD-Test--Driven_Development-F7768E?style=for-the-badge)
-![SDD](https://img.shields.io/badge/SDD-Spec--Driven_Development-7AA2F7?style=for-the-badge)
-![RDD](https://img.shields.io/badge/RDD-Receipt--Driven_Development-BB9AF7?style=for-the-badge)
-![OpenSpec](https://img.shields.io/badge/OpenSpec-Structured_Change_Artifacts-9ECE6A?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/TDD-F7768E?style=for-the-badge" alt="Test-Driven Development" />
+  <img src="https://img.shields.io/badge/SDD-7AA2F7?style=for-the-badge" alt="Spec-Driven Development" />
+  <img src="https://img.shields.io/badge/RDD-BB9AF7?style=for-the-badge" alt="Receipt-Driven Development" />
+  <img src="https://img.shields.io/badge/OpenSpec-9ECE6A?style=for-the-badge" alt="OpenSpec" />
+</p>
+
+<p align="center"><sub>Tests first · Specs before implementation · Receipts for verifiable review · Durable change artifacts</sub></p>
 
 ## Featured projects
 
