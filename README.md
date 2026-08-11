@@ -28,7 +28,7 @@
 
 I'm a software engineer focused mainly on **backend development**: designing maintainable systems, clear APIs and practical tools that solve real problems with **Python, Java, JavaScript/TypeScript** and modern development practices.
 
-I'm also exploring how **AI agents and developer tooling** can improve real software workflows: code analysis, automation, review, documentation and developer productivity.
+I'm also exploring how **AI agents and structured engineering workflows** can improve real software delivery: **Test-Driven Development (TDD)**, **Spec-Driven Development (SDD)**, **Receipt-Driven Development (RDD)**, **OpenSpec**, code analysis, automation and verifiable review.
 
 📍 Santiago, Chile · Open to remote work
 
@@ -81,6 +81,13 @@ Rust tooling               ██████████░░░░░░░�
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white)
 
+### Engineering workflows
+
+![TDD](https://img.shields.io/badge/TDD-Test--Driven_Development-F7768E?style=for-the-badge)
+![SDD](https://img.shields.io/badge/SDD-Spec--Driven_Development-7AA2F7?style=for-the-badge)
+![RDD](https://img.shields.io/badge/RDD-Receipt--Driven_Development-BB9AF7?style=for-the-badge)
+![OpenSpec](https://img.shields.io/badge/OpenSpec-Structured_Change_Artifacts-9ECE6A?style=for-the-badge)
+
 ## Featured projects
 
 <div align="center">
@@ -101,7 +108,7 @@ Rust tooling               ██████████░░░░░░░�
   <img width="48%" src="assets/projects/eventcommerce.svg" alt="eventcommerce — event-driven commerce backend" />
 </a>
 <a href="https://jonasotoaguilar.itch.io/wealthquest">
-  <img src="https://img.shields.io/badge/🎮%20WealthQuest-Play%20the%20game-FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white" alt="WealthQuest" />
+  <img width="48%" src="assets/projects/wealthquest.svg" alt="WealthQuest — 3D financial education board game on itch.io" />
 </a>
 
 </div>
