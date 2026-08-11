@@ -86,19 +86,19 @@ Rust tooling               ██████████░░░░░░░�
 <div align="center">
 
 <a href="https://github.com/jonasotoaguilar/opencode-tokenmeter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasotoaguilar&repo=opencode-tokenmeter&theme=tokyonight&hide_border=true&show_owner=true" alt="opencode-tokenmeter" />
+  <img width="48%" src="assets/projects/opencode-tokenmeter.svg" alt="opencode-tokenmeter — token usage metering for OpenCode agents" />
 </a>
 <a href="https://github.com/jonasotoaguilar/raguard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasotoaguilar&repo=raguard&theme=tokyonight&hide_border=true&show_owner=true" alt="raguard" />
+  <img width="48%" src="assets/projects/raguard.svg" alt="raguard — multi-tenant conversational RAG over internal documents" />
 </a>
 <a href="https://github.com/jonasotoaguilar/minuto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasotoaguilar&repo=minuto&theme=tokyonight&hide_border=true&show_owner=true" alt="minuto" />
+  <img width="48%" src="assets/projects/minuto.svg" alt="minuto — attendance tracking for small teams" />
 </a>
 <a href="https://github.com/jonasotoaguilar/ServiceFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasotoaguilar&repo=ServiceFlow&theme=tokyonight&hide_border=true&show_owner=true" alt="ServiceFlow" />
+  <img width="48%" src="assets/projects/ServiceFlow.svg" alt="ServiceFlow — service order lifecycle management" />
 </a>
 <a href="https://github.com/jonasotoaguilar/eventcommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasotoaguilar&repo=eventcommerce&theme=tokyonight&hide_border=true&show_owner=true" alt="eventcommerce" />
+  <img width="48%" src="assets/projects/eventcommerce.svg" alt="eventcommerce — event-driven commerce backend" />
 </a>
 <a href="https://jonasotoaguilar.itch.io/wealthquest">
   <img src="https://img.shields.io/badge/🎮%20WealthQuest-Play%20the%20game-FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white" alt="WealthQuest" />
@@ -109,16 +109,13 @@ Rust tooling               ██████████░░░░░░░�
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasotoaguilar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="Jonathan Soto GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasotoaguilar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonaSotoAguilar&theme=tokyonight" alt="Jonathan Soto GitHub contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonaSotoAguilar&theme=tokyonight" alt="Jonathan Soto profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonasotoaguilar&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonaSotoAguilar&theme=tokyonight" alt="Repos by language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonaSotoAguilar&theme=tokyonight" alt="Commits by language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonaSotoAguilar&theme=tokyonight" alt="Most productive time" />
 </p>
 
 ## Contact
