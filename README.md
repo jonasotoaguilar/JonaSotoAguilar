@@ -81,15 +81,11 @@ Rust tooling               ██████████░░░░░░░�
 
 ### AI-assisted development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/TDD-F7768E?style=for-the-badge" alt="Test-Driven Development" />
-  <img src="https://img.shields.io/badge/SDD-7AA2F7?style=for-the-badge" alt="Spec-Driven Development" />
-  <img src="https://img.shields.io/badge/RDD-BB9AF7?style=for-the-badge" alt="Receipt-Driven Development" />
-  <img src="https://img.shields.io/badge/OpenSpec-9ECE6A?style=for-the-badge" alt="OpenSpec" />
-</p>
-
-<p align="center"><sub>Tests first · Specs before implementation · Receipts for verifiable review · Durable change artifacts</sub></p>
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-F7768E?style=for-the-badge)
+![SDD](https://img.shields.io/badge/SDD-7AA2F7?style=for-the-badge)
+![RDD](https://img.shields.io/badge/RDD-BB9AF7?style=for-the-badge)
+![OpenSpec](https://img.shields.io/badge/OpenSpec-9ECE6A?style=for-the-badge)
 
 ## Featured projects
 
